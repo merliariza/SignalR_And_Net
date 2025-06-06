@@ -197,3 +197,10 @@ JavaScript anterior:
 - Crea e inicia una conexión.
 - Agrega al botón de envío un controlador que envía mensajes al concentrador.
 - Agrega al objeto de conexión un controlador que recibe mensajes desde el concentrador y los agrega a la lista.
+
+## **Autor**
+Desarrollado por @juancarlosfc5, @merliariza, @josedfn, @juanfrxz con fines educativos y de demostración de SignalR y EF Core.
+
+## **Versión en consola**
+https://github.com/juancarlosfc5/LiveChat_SignalR
+Aqui puedes ver una version en consola de la implementacion de SignalR
